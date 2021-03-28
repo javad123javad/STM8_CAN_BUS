@@ -91,14 +91,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DQMKXEVX
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Serial_MultiPlexer\Design Rule Check - .html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Serial_MultiPlexer\Design Rule Check - main.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Designer
 Value=Javad RahimiPetroudi
